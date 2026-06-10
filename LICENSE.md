@@ -1,4 +1,4 @@
-# 
+# Seguro Project Origin plugins. Con toma de decisiones automatizada y ética de la IA — optimizado para el máximo rendimiento.
 
 
 
